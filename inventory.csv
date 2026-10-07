@@ -1,0 +1,9 @@
+name,location,quantity,reorder_threshold,reorder_amount,supplier
+pipette tips (200 uL),Station A,120,50,200,Fisher Scientific
+pipette tips (1000 uL),Station A,35,40,100,Fisher Scientific
+nitrile gloves (M),Storage 1,40,30,100,VWR
+nitrile gloves (L),Storage 1,18,30,100,VWR
+serological pipettes (10 mL),Station B,60,25,100,Corning
+conical tubes (15 mL),Station B,200,75,300,Corning
+cell culture flasks (T75),Incubator Room,22,20,50,Corning
+ethanol 70% (bottle),Storage 2,6,4,12,Sigma-Aldrich
